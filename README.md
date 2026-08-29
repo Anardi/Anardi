@@ -3,7 +3,7 @@ I’m a Bachelor of Informatics Engineering graduate, Cum Laude (GPA 3.6/4.0), w
 
 Currently transitioning into IT Support, with a focus on networking, system troubleshooting, and security. My hands-on practice includes network configuration, traffic analysis, Linux environments, and basic network security through academic and personal projects.
 
-#Technical Focus
+# Technical Focus
 
 Networking: TCP/IP, IPv4, Subnetting, DHCP, DNS, Routing & Switching
 IT Support: Hardware & Software Troubleshooting, Windows, Linux, Network Troubleshooting
