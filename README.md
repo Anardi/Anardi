@@ -1,7 +1,7 @@
 # Hello, I'm Anardi 👋
-I’m a Bachelor of Informatics Engineering graduate, Cum Laude (GPA 3.6/4.0), with a foundation in computer systems, networking, and information security.
+I’m a Bachelor of Informatics Engineering graduate with a background in computer systems, networking, and information security.
 
-Currently transitioning into IT Support, with a focus on networking, system troubleshooting, and security. My hands-on practice includes network configuration, traffic analysis, Linux environments, and basic network security through academic and personal projects.
+Currently transitioning into IT Support, with a focus on networking, system troubleshooting, and security. I’ve gained hands-on experience through academic and personal projects involving network configuration, traffic analysis, Linux environments, and basic network security.
 
 ## Technical Focus
 
