@@ -5,7 +5,14 @@ Currently transitioning into IT Support, with a focus on networking, system trou
 
 # Technical Focus
 
-Networking: TCP/IP, IPv4, Subnetting, DHCP, DNS, Routing & Switching
-IT Support: Hardware & Software Troubleshooting, Windows, Linux, Network Troubleshooting
-Security: Network Security Fundamentals, Traffic Analysis, Firewall & Access Control
-Tools: Cisco Packet Tracer, MikroTik, Wireshark, Linux, VirtualBox
+**Networking**
+TCP/IP, IPv4, Subnetting, DHCP, DNS, Routing & Switching
+
+**IT Support**
+Hardware & Software Troubleshooting, Windows, Linux, Network Troubleshooting
+
+**Security**
+Network Security Fundamentals, Traffic Analysis, Firewall & Access Control
+
+**Tools**
+Cisco Packet Tracer, MikroTik, Wireshark, Linux, VirtualBox
